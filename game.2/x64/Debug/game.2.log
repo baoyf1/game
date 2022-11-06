@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+  正在生成代码...
+C:\Users\暴\编程\game.2\test.c(23): warning C4715: “judj”: 不是所有的控件路径都返回值
+  game.2.vcxproj -> C:\Users\暴\编程\game.2\x64\Debug\game.2.exe
